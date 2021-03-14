@@ -4,7 +4,10 @@ The purpose of this challege is to refactor the code and loop through all the da
 We will be looking at the year 2017 and 2018 to compare stock preformance
 ### Year 2017 
 
+<img width="224" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/79885849/111077009-38b8f000-84c5-11eb-8ea3-acce1012d316.PNG">
+
 Looking at the data in 2017 and comparing it to the tickers, this year was very positive year for the companies in as a general. We can see the total daily volume rising and also geting a high turnover or returns with all but one company with ticker ( TEMP ) on the negetive side of things. 
+
 ### Year 2018 
 Looking at the data in 2018 and comparing it to the tickers, this year was not a positive year we see a lot of losses in the return with only two companies with tickers ( ENPH,RUN ) with positive returns or turnover. 
 ### Results 
